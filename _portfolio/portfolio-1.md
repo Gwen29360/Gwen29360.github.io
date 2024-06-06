@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Within a breaking wave (Brittany-France)<br/><img src='/images/barrel_brittany.png'>"
 collection: portfolio
 ---
 
