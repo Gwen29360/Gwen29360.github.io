@@ -1,6 +1,6 @@
 ---
-title: "Within a breaking wave"
-excerpt: "Brittany-France<br/><img src='/images/barrel_brittany.png'>"
+title: "A glider plunging in the Pacific Ocean"
+excerpt: "R/V Bold Horizon<br/><img src='/images/glider.JPG'>"
 collection: portfolio
 ---
 
