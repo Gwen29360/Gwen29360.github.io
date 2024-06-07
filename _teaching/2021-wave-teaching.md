@@ -2,9 +2,9 @@
 title: "Wave in Geosciences"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2020-2021-wave-teaching
+permalink: /teaching/2020-wave-teaching
 venue: "University of Western Brittany, European Institute of the Sea"
-date: Fall 2020 and 2021
+date:  2021-10-01
 location: "Plouzané, France"
 ---
 
