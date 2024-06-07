@@ -1,6 +1,6 @@
 ---
-title: "Within a breaking wave"
-excerpt: "Brittany-France<br/><img src='/images/barrel_brittany.png'>"
+title: "A waveglider at Sea"
+excerpt: "Want to learn about waveglider?[https://www.frontiersin.org/articles/10.3389/fmars.2021.664728/full](here)<br/><img src='/images/waveglider.JPG'>"
 collection: portfolio
 ---
 
