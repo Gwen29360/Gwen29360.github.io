@@ -1,6 +1,6 @@
 ---
 title: "In the Atlantic Ocean at the top of the mast"
-excerpt: "(R/V Atalante)<br/><img src='/images/Atalante.png'>"
+excerpt: "R/V Atalante<br/><img src='/images/Atalante.png'>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "A Saildrone at Sea"
-excerpt: "Want to learn about Saildrone?[here](https://www.saildrone.com) and vizualize what it sees within a hurricane? [here](https://www.youtube.com/watch?v=H-jL427Bx7I)<br/><img src='/images/saildrone.JPG'>"
+excerpt: "Want to learn about Saildrone? [here](https://www.saildrone.com) and vizualize what it sees within a hurricane? [here](https://www.youtube.com/watch?v=H-jL427Bx7I)<br/><img src='/images/saildrone.JPG'>"
 collection: portfolio
 ---
 
