@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-L'intelligence chez l'homme, quoiqu'il en soit pourvu, il a toujours l'impression d'en avoir assez, vu que c'est avec ça qu'il juge ! (Coluche)
+*L'intelligence chez l'homme, quoiqu'il en soit pourvu, il a toujours l'impression d'en avoir assez, vu que c'est avec ça qu'il juge.* (Coluche)
 
 About Me
 ======
