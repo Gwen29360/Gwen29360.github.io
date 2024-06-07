@@ -11,8 +11,13 @@ L'intelligence chez l'homme, quoiqu'il en soit pourvu, il a toujours l'impressio
 
 About Me
 ======
-I'm Gwen.
+I am currently a Research Associate at the [Colorado School of Mines](https://www.mines.edu) in the [Geophysics department](https://geophysics.mines.edu). I am a member of the Mines Oceanography Team led by [Bia Villas Bôas](https://biavillasboas.github.io). I got a Ph.D in in space and physical oceanography, delivered by the Universityof Western Brittany.
 
+I use numerical wave model, spaceborne/airborne remote sensing, and in situ observations to better understand the role of the surface waves on the Global Climate and more particularly how they interact with the upper oceans and the lower atmosphere.
+
+I am passionate about surface gravity waves and small-scale current dynamic. I love field work and built low-cost instruments that can be deployed easely from a plateform or a research vessel.
+
+When I don't work, I surf (kind of in stand-by in the Colorado montains), run, hike, and play accordion.
 
 Getting started
 ======

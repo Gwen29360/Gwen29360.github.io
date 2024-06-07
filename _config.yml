@@ -26,7 +26,8 @@ author:
   pronouns         : # example: "she/her"
   bio              : "An ocean surface wave nerd"
   location         : "Golden, Colorado"
-  employer         : "Colorado School of Mines"
+  university        : "Colorado School of Mines"
+  employer         : "https://geophysics.mines.edu"
   uri              : # URL
   email            : "gmarechal@mines.edu"
 
