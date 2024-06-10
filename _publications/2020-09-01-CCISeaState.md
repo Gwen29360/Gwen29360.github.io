@@ -14,4 +14,4 @@ The Global Climate Observing System has listed “Sea State” as an Essential C
 
 ![Figure](https://gwen29360.github.io/files/cci_seastate.png "Figure: CCI Sea State logo. The dataset is available at [CCI-ESA](https://catalogue.ceda.ac.uk/uuid/f91cd3ee7b6243d5b7d41b9beaf397e1)")
 
-Figure: Figure: CCI Sea State logo. The dataset is available at [CCI-ESA](https://catalogue.ceda.ac.uk/uuid/f91cd3ee7b6243d5b7d41b9beaf397e1)
+Figure: CCI Sea State logo. The dataset is available at [CCI-ESA](https://catalogue.ceda.ac.uk/uuid/f91cd3ee7b6243d5b7d41b9beaf397e1)
