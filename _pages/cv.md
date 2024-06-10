@@ -39,22 +39,22 @@ Experiences-Research
   Experiences-Field work
 ======
 
-  * S-MODE: submesoscale current surveys and SWOT CalVal
+* S-MODE: submesoscale current surveys and SWOT CalVal
   * Duties: CTD casts, floats deployments, radiosonde deployments (California Current)
   * Supervisor: Andrey Shcherbina and Tom Farrar
   
-  * SUMOS: CFOSAT CalVal campaign
+* SUMOS: CFOSAT CalVal campaign
   * Duties: Building of Stereo Camera system and deployment on the R/V Atalante (Bay of Biscay)
   * Supervisor: Peter Sutherland and Louis Marié
   
-  * Chemical properties of the waters offshore Cape-Verde
+* Chemical properties of the waters offshore Cape-Verde
   * Duties: Building of Stereo Camera system and deployment on the R/V Meteor (Mindelo)
   
-  * Observing short waves properties from stereo-video and polarinetric cameras
+* Observing short waves properties from stereo-video and polarinetric cameras
   * duties: Polarimetric Camera and Radar deployment on the Acqua Alta Platform (Adriatic Sea)
   * Supervisor: Alvise Benetazzo and Peter Sutherland
 
-  * Thermo-haline properties of the Aulne River during a tidal cycle
+* Thermo-haline properties of the Aulne River during a tidal cycle
   * duties: CTD casts
   * Supervisor: Olivier Arzel
   
@@ -71,7 +71,7 @@ Summerschool
   * Supervisor: Alex Ayet, Audrey Delpeche
 
 * Summer 2023: NASA Summer School on Satellite Observations and Climate Models
-  * NASA-Jet Propulsion Laboratory (JPL) & California Institute of Technology 
+  * NASA-Jet Propulsion Laboratory (JPL) & California Institute of Technology (Caltech)
   * Duties included: Ocean-Ice-Land physics and pbservation from space classes. Global Warming project + presentation
   * Supervisor: JPL-Caltech
   
