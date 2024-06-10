@@ -77,9 +77,12 @@ Summerschool
   
 Skills
 ======
+* Python, Matlab, bash
+* WAVEWATCH-III numerical framework, WAves Stereo System (3-D reconstruction), Stream-7
+* High Performance Computer facilities
+
 * First aid
 * Driving licence
-* Surf instructor: Federal diploma
 
 Publications
 ======
